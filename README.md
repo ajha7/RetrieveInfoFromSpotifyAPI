@@ -1,5 +1,7 @@
 # RetrieveInfoFromSpotifyAPI
-retrieves info from Spotify API; Used project to learn about OAuth2.0, HTTP, interacting with APIs
+Purpose: learn about OAuth2.0, HTTP, interacting with APIs
+
+retrieves info from Spotify API
 
 type in new, gets new songs(artists, links, titles)
 type in featured, gets featured songs  artists, links, titles)
